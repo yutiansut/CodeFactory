@@ -37,15 +37,15 @@
     <div class="about-container">
          <div class="github-box">
             <a href="https://github.com/hilongjw">
-                <span class="github-link">hilongjw</span>
+                <span class="github-link">yutiansut</span>
             </a>
             <span> / </span>
             <a href="https://github.com/hilongjw/vue-zhihu-daily">
-                <span class="github-link">vue-zhihu-daily</span>
+                <span class="github-link">quantaxisDC</span>
             </a>
             <br>
-            <p class="github-description">Awe用vue写的知乎日报web app啦</p>
-            <a href="https://github.com/hilongjw/vue-zhihu-daily">
+            <p class="github-description">QUANTAXIS 数据可视化</p>
+            <a href="https://github.com/yutiansut/quantaxisDC">
                 <p class="github-star">还不给我star？o(╥﹏╥)o</p>
             </a>
          </div>
@@ -56,7 +56,7 @@
 export default {
     data () {
         return {
-            author: 'Awe'
+            author: 'yutiansut'
         }
     }
 }

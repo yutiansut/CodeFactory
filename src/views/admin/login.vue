@@ -2,7 +2,7 @@
   <div class="__cov-modal">
     <div class="__cov-modal-title">登录</div>
     <div class="__cov-modal-text">
-      <textfield :textfield="login.username"></textfield>
+      <textfield :textfield="login.username">u</textfield>
       <textfield :textfield="login.password"></textfield>
     </div>
     <div class="__cov-modal-actions">
@@ -12,8 +12,8 @@
 </template>
 
 <script>
-import covButton from '../../components/button.vue'
-import textfield from '../../components/textfield.vue'
+//import covButton from '../../components/button.vue'
+//import textfield from '../../components/textfield.vue'
 export default {
   props: ['login', 'action'],
   components: {

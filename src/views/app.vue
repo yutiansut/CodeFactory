@@ -4,6 +4,7 @@
             <div class="nav-tab" @click="navRoute($event, 'index')">首页</div>
             <div class="nav-tab" @click="navRoute($event, 'themes')">主题日报</div>
             <div class="nav-tab" @click="navRoute($event, 'about')">关于</div>
+            <div class="nav-tab" @click="navRoute($event, 'dc')">quantaxisdc</div>
             <div class="nav-rail">
                 <span class="nav-moving" :style="covNav.moving"></span>
             </div>
