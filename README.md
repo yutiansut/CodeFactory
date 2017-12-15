@@ -1,5 +1,7 @@
 ## Preview
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yutiansut/CodeFactory.svg)](https://greenkeeper.io/)
+
  手机端
 ![mobile-preview](https://github.com/hilongjw/vue-zhihu-daily/blob/master/mobile-preview.png)
  桌面端
